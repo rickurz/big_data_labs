@@ -17,3 +17,7 @@
     - [Zeppelin JSON Export](https://github.com/rickurz/big_data_labs/blob/master/Semantix/Testes%20Spark%20Lab%20Semantix.json)
  - Arquivo PDF com a saída da execução contendo no primeiro parágrafo as respostas das perguntas do teste, e em seguida os parágrafos com a execução passo a passo da solução do exercício de análise dos Logs da Nasa proposto.
     - [Respostas Teste Semantix Ricardo](Zeppelin_Output_Teste_Spark_Semantix_RicardoKurz.pdf)
+
+
+***Notas***
+O seguinte site foi utilizado para teste das expressões regulares, um excelente recurso: https://regexr.com/
