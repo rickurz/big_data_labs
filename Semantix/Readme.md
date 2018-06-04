@@ -16,4 +16,4 @@
  - Arquivo JSON exportado do Apache Zeppelin que corresponde ao código final do teste, o mesmo pode ser importado em qualquer Zeppelin 0.7.3+ configurado com acesso a uma instalação Apache Spark 2.
     - [Zeppelin JSON Export](https://github.com/rickurz/big_data_labs/blob/master/Semantix/Testes%20Spark%20Lab%20Semantix.json)
  - Arquivo PDF com a saída da execução contendo no primeiro parágrafo as respostas das perguntas do teste, e em seguida os parágrafos com a execução passo a passo da solução do exercício de análise dos Logs da Nasa proposto.
-    - [Export PDF do Google Chrome](Zeppelin_Output_Teste_Spark_Semantix_RicardoKurz.pdf)
+    - [Respostas Teste Semantix Ricardo](Zeppelin_Output_Teste_Spark_Semantix_RicardoKurz.pdf)
